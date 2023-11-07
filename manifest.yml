@@ -1,0 +1,7 @@
+---
+name: DeepLabCut
+category: Interactive Apps
+subcategory: Biology
+role: batch_connect
+description: |
+  This will lauch DeepLabCut GUI using a container.
